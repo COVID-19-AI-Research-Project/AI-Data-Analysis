@@ -4,7 +4,7 @@
 
 [![COVID-19 AI Data Analysis](Media/Images/covid-19-ai-research-data-analysis.png)](https://github.com/COVID-19-AI-Research-Project/COVID19-AI-Data-Analysis)
 
-[![CURRENT VERSION](https://img.shields.io/badge/CURRENT%20VERSION-0.0.0-blue.svg)](https://github.com/COVID-19-AI-Research-Project/COVID19-AI-Data-Analysis/tree/0.0.0) [![CURRENT DEV BRANCH](https://img.shields.io/badge/CURRENT%20DEV%20BRANCH-0.1.0-blue.svg)](https://github.com/COVID-19-AI-Research-Project/COVID19-AI-Data-Analysis/tree/0.1.0)
+[![CURRENT VERSION](https://img.shields.io/badge/CURRENT%20VERSION-0.0.0-blue.svg)](https://github.com/COVID-19-AI-Research-Project/COVID19-AI-Data-Analysis/tree/0.1.0) [![CURRENT DEV BRANCH](https://img.shields.io/badge/CURRENT%20DEV%20BRANCH-0.1.0-blue.svg)](https://github.com/COVID-19-AI-Research-Project/COVID19-AI-Data-Analysis/tree/0.2.0)
 
 # Introduction
 [COVID-19 AI Data Analysis](https://github.com/COVID-19-AI-Research-Project/COVID19-AI-Data-Analysis "COVID-19 AI Data Analysis") is a [Peter Moss COVID-19 AI Research Project](https://github.com/COVID-19-AI-Research-Project "Peter Moss COVID-19 AI Research Project") Artificial Intelligence & Data Analysis research & development project.
