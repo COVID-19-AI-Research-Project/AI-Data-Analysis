@@ -122,11 +122,8 @@ And lastly would like to add these two cartoons from internet, I do not know the
 | ![](Media/Images/cartton1.jpg)|![](Media/Images/cartton2.jpg)|
 |  **This pandemic might change more than we ever thought**|**May be Corona is the vaccine and we the virus :smiley:**|
 
-# Peter Moss COVID-19 AI Research Project
-This work is part of the [Adam Milton-Barker](https://www.linkedin.com/in/adammiltonbarker/)
-
 # Additional Resources:
-* As part of the    My friend [Adam Milton-Barker](https://www.linkedin.com/in/adammiltonbarker/) is working on analysing the effect of lockdown on Earth's environment. You can view his posts for more updates.
+* My friend [Adam Milton-Barker](https://www.linkedin.com/in/adammiltonbarker/) has started a research project, [Peter Moss COVID-19 AI Research Project](https://github.com/COVID-19-AI-Research-Project "Peter Moss COVID-19 AI Research Project"), within [Peter Moss Leukemia AI Research](https://github.com/COVID-19-AI-Research-Project "Peter Moss Leukemia AI Research"). You can keep up to date with the research project on the [Peter Moss COVID-19 AI Research Project Facebook Page](https://www.facebook.com/covid19airesearch "Peter Moss COVID-19 AI Research Project Facebook Page").
 * A very nice article by [Tomas Pueyo](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
 
 # Acknowledgements
