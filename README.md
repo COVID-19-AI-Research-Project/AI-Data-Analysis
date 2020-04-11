@@ -24,9 +24,9 @@ Please follow the [Installation Guide](Documentation/Installation/Installation.m
 
 Below are the current projects.
 
-|ID | Project | Author |
-|---|---------|--------|
-| 1 | [COVID-2020](Projects/1/ "COVID-2020") | [Dr Amita Kapoor](https://www.leukemiaresearchassociation.ai/team/amita-kapoor "Dr Amita Kapoor") |
+|ID | Project | Description | Author |
+|---|---------|-------------|--------|
+| 1 | [COVID-2020](Projects/1/ "COVID-2020") | COVID-2020. A data scientist perspective. This research shows that based on a population of 20,000,000 - 60,000,00, it will take roughly 1 year for the COVID-19 virus to curve off.<br/><br/>- Referenced in: [Covid-19 spread: Reproduction of data and prediction using a SIR model on Euclidean network](https://arxiv.org/pdf/2003.07063.pdf "Covid-19 spread: Reproduction of data and prediction using a SIR model on Euclidean network") by Kathakali Biswas, Abdul Khaleque, and Parongama Sen<br />- Leukemia AI Research Article: [COVID 2020 — A data scientist perspective](https://medium.com/leukemiaairesearch/covid-2020-a-data-scientist-perspective-c135c9e4e90d "COVID 2020 — A data scientist perspective") | [Dr Amita Kapoor](https://www.leukemiaresearchassociation.ai/team/amita-kapoor "Dr Amita Kapoor") |
 
 &nbsp;
 
