@@ -22,7 +22,7 @@ Clone the [COVID19-AI-Data-Analysis](https://github.com/COVID-19-AI-Research-Pro
 
 To clone the repository and install the COVID19-AI-Data-Analysis repository, make sure you have Git installed. Now navigate to the location you want to clone the repository to on your device using terminal/commandline, and then use the following command.
 
-The **-b "0.1.0"** parameter ensures you get the code from the latest development branch. Before using the below command please check our latest development branch in the button at the top of this page.
+The **-b "0.2.0"** parameter ensures you get the code from the latest development branch. Before using the below command please check our latest development branch in the button at the top of this page.
 
 ```
   $ git clone -b "0.1.0" https://github.com/COVID-19-AI-Research-Project/COVID19-AI-Data-Analysis.git
