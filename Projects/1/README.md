@@ -35,7 +35,7 @@ Please follow the [Installation Guide](Documentation/Installation/Installation.m
 &nbsp;
 
 # Get Started
-Now you have installed the repository, you can run the [Prediction_Covid_19_WorldWide.ipynb](Prediction_Covid_19_WorldWide.ipynb "Prediction_Covid_19_WorldWide.ipynb") file on your local Jupyter Notebook server or <a href="https://github.com/COVID-19-AI-Research-Project/AI-Data-Analysis/blob/0.2.0/Projects/1/Prediction_Covid_19_WorldWide.ipynb" target="_parent">Open In Colab</a>.
+Now you have installed the repository, you can run the [Prediction_Covid_19_WorldWide.ipynb](Prediction_Covid_19_WorldWide.ipynb "Prediction_Covid_19_WorldWide.ipynb") file on your local Jupyter Notebook server or <a href="https://colab.research.google.com/github/COVID-19-AI-Research-Project/AI-Data-Analysis/blob/master/Projects/1/Prediction_Covid_19_WorldWide.ipynb" target="_parent">Open In Colab</a>.
 
 &nbsp;
 
